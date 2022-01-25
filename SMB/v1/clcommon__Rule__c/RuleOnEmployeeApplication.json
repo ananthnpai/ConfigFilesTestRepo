@@ -1,0 +1,18 @@
+{
+	"ObjNameA": [
+		{
+			"id": "a1234",
+			"isModified": "true"
+		},
+		{
+			"id": "a2234",
+			"isModified": "true"
+		}
+	],
+	"ObjNameB": [
+		{
+			"id": "b1234",
+			"isModified": "false"
+		}
+	]
+}
