@@ -6,7 +6,7 @@
     },
    
     {   
-        "Sequence":2,
+        "Sequence":2
         "Object API Name":"clcommon__Rule__c",
         "External Id Field":"clcommon__External_ID__c"
     }
