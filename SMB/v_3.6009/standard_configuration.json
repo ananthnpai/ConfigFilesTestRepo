@@ -8,20 +8,5 @@
         "Sequence":2,
         "Object API Name":"intframework__Integration_Provider__c",
         "External Id Field":"intframework__External_Id__c"
-    },
-    {   
-        "Sequence":3,
-        "Object API Name":"intframework__Integration_API_Type__c",
-        "External Id Field":"intframework__External_Id__c"
-    },
-    {   
-        "Sequence":4,
-        "Object API Name":"intframework__Integration_Configuration__c",
-        "External Id Field":"intframework__External_Id__c"
-    },
-    {   
-        "Sequence":5,
-        "Object API Name":"intframework__Integration_API_Configuration__c",
-        "External Id Field":"intframework__External_Id__c"
     }
 ]
