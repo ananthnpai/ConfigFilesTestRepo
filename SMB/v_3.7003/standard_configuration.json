@@ -2,8 +2,8 @@
     
     {   
         "Sequence":1,
-        "Object API Name":"clcommon__CL_Product__c",
-        "External Id Field":"genesis__External_ID__c"
+        "Object API Name":"clcommon__Asset_Class__c",
+        "External Id Field":"clcommon__External_ID__c"
     }
     
 ]
