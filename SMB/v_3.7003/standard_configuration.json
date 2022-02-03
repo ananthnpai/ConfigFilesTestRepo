@@ -151,8 +151,8 @@
 
     {   
         "Sequence":38,
-        "Object API Name":"q2dlos__Credit_Loan_Type_Configuration__c",
-        "External Id Field":"q2dlos__External_ID__c"
+        "Object API Name":"ints__Credit_Loan_Type_Configuration__c",
+        "External Id Field":"ints__External_ID__c"
     },
 
     {   
