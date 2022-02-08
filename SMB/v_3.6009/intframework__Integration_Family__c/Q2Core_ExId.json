@@ -2,7 +2,7 @@
      "attributes": {
           "type": "intframework__Integration_Family__c"
      },
-     "Name": "Q2Core",
+     "Name": "Q2Core  - v1",
      "External_ID__c": "Q2Core_ExId",
-     "Release_Checksum__c": "0bdc27955eb98de692387e5bf517b8b0d23ab4747cf31b3c166d8d473796acd1"
+     "Release_Checksum__c": "cbb2c3b600c26e42fefad27a2569e0c36de07b984325a81795c3576c6d021116"
 }
