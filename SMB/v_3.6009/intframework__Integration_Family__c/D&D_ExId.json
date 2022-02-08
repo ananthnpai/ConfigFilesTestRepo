@@ -2,7 +2,7 @@
      "attributes": {
           "type": "intframework__Integration_Family__c"
      },
-     "Name": "Documents And Disclosures",
+     "Name": "Documents And Disclosures - v1",
      "External_ID__c": "D&D_ExId",
-     "Release_Checksum__c": "d39ca4f3a18ca78694d9275c0ba77f9a7969bb01c55a0de429bed4cffcf76453"
+     "Release_Checksum__c": "6e0c4b783b12eb19ff6c7b10d66da8a217e9caaf8d145d314f6d27e70d43c40d"
 }
