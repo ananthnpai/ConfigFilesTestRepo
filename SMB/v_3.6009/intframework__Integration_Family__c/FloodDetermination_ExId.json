@@ -4,7 +4,5 @@
      },
      "Name": "Flood Determination - v1",
      "External_ID__c": "FloodDetermination_ExId",
-     "Release_Checksum__c": "8d3845a5cda8c2c2917ca3995a55f42fac0366301144a5568f401b57b25922d2",
-     "current_checksum": "9c1f13a96ac40171a4778d11bbe5b942426e9280bf126f4977921c2816fb9845",
-     "is_custom_modified": true
+     "Release_Checksum__c": "8d3845a5cda8c2c2917ca3995a55f42fac0366301144a5568f401b57b25922d2"
 }
